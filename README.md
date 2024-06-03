@@ -3,7 +3,7 @@
 RLIF 알고리즘 개발 관리 페이지
 
 # Algorithm pipeline
-![RLIF_pipeline](https://github.com/eunjuyummy/All_about_RLIF/assets/101487529/d8a48042-9ebf-425b-b29a-ba1b9d659112)
+![RLIF_pipeline](https://github.com/eunjuyummy/All_about_RLIF/assets/101487529/9f2b4bd1-e522-494c-9145-bf84a344bf44)
 
 
 
